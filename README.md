@@ -23,10 +23,10 @@ Para a execução do website, que utiliza **HTML, CSS e JavaScript**, é necess�
 4. **Copiar os arquivos do site** para o servidor.
 5. **Verificar o funcionamento** acessando o site pelo navegador.
 
-## 🖼️ Evidências
+## 🖼️ Bootcamp
 
-Segue abaixo o documento com os prints das etapas realizadas:  
-📄 [Relatório de evidências](LINK_DO_DOCUMENTO_AQUI)
+Segue abaixo o link do desafio proposto no Bootcamp:  
+📄 [Aula 2 - IaC com Vagrant e Ansible](https://gitlab.com/dvp2025-2/aula-2-iac-com-vagrant-e-ansible)]
 
 ## 📌 Considerações Finais
 
